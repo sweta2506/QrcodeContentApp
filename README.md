@@ -2,7 +2,7 @@
 1. Take clone from this repository: Github_Repo link(https://github.com/sweta2506/QrcodeContentApp.git)
 
 2. Run below command to install dependencies
-omposer install
+composer install
 
 3. copy .env.example and rename it as .env and add database details
 

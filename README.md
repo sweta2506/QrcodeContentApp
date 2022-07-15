@@ -1,5 +1,5 @@
 ## API Setup Instructions:
-1. Take clone from this repository: Github_Repo link
+1. Take clone from this repository: Github_Repo link(https://github.com/sweta2506/QrcodeContentApp.git)
 
 2. Run below command to install dependencies
 omposer install
@@ -90,3 +90,5 @@ Response:
 }
 
 ## Front end Setup
+
+In front end we have used JQUERY, CSS and HTML.

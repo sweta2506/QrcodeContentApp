@@ -2,15 +2,15 @@
 1. Take clone from this repository: Github_Repo link(https://github.com/sweta2506/QrcodeContentApp.git)
 
 2. Run below command to install dependencies
-composer install
+"composer install"
 
 3. copy .env.example and rename it as .env and add database details
 
 4. Run below command to create DB schema
-php artisan migrate
+"php artisan migrate"
 
 5. To run test case
-vendor/bin/phpunit tests/Unit
+"vendor/bin/phpunit tests/Unit"
 
 ## API endpoints
 
